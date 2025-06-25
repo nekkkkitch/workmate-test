@@ -1,5 +1,5 @@
 service:
   amount_of_workers: 1
 api:
-  host: "localhost"
+  host: ""
   port: "8080"
