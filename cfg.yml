@@ -1,5 +1,5 @@
 service:
-  amount_of_workers: 1
+  amount_of_workers: 5
 api:
   host: ""
   port: "8080"
